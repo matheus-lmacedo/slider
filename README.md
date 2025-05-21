@@ -35,4 +35,11 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/matheus-lmacedo/simple-image-slider.git
+   git clone https://github.com/matheus-lmacedo/gta-landing-page.git
+2. Navigate to the project folder:
+   ```bash
+   cd gta-landing-page
+Happy coding! 🚀👨‍💻
+
+## 📄 License
+This project is licensed under the MIT License.
